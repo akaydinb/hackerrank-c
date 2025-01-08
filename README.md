@@ -2,6 +2,7 @@
 Solutions of bash exercises in hackerrank
 
 === What is hackerrank? ===
+
 Hackerrank is a platform, where you can find programming challenges from
 easy to hard, in various programming languages. I really like to challenge
 myself with such problems. It keeps me on the track. Even if I couldn't
