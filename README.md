@@ -1,5 +1,5 @@
-# hackerrank-bash
-Solutions of bash exercises in hackerrank
+# hackerrank-C
+Solutions of C exercises in hackerrank
 
 === What is hackerrank? ===
 
