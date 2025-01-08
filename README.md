@@ -14,10 +14,10 @@ The webpage is available at https://www.hackerrank.com/
 There are several topics, where you can find challenges specific to that
 topic. i.e.
 
-bash (linux shell):  https://www.hackerrank.com/domains/shell
-python:              https://www.hackerrank.com/domains/python
-C:                   https://www.hackerrank.com/domains/c
-Math (using python): https://www.hackerrank.com/domains/mathematics
+bash (linux shell):  https://www.hackerrank.com/domains/shell \
+python:              https://www.hackerrank.com/domains/python \
+C:                   https://www.hackerrank.com/domains/c \
+Math (using python): https://www.hackerrank.com/domains/mathematics \
 
 
 The file names under this repo corresponds to the problem name in that
