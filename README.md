@@ -17,7 +17,7 @@ topic. i.e.
 bash (linux shell):  https://www.hackerrank.com/domains/shell \
 python:              https://www.hackerrank.com/domains/python \
 C:                   https://www.hackerrank.com/domains/c \
-Math (using python): https://www.hackerrank.com/domains/mathematics \
+Math (using python): https://www.hackerrank.com/domains/mathematics
 
 
 The file names under this repo corresponds to the problem name in that
